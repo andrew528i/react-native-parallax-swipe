@@ -1,17 +1,14 @@
 # react-native-parallax-swipe
 
-## Getting started
+## Installation
 
 `$ npm install react-native-parallax-swipe --save`
 
-### Mostly automatic installation
 
-`$ react-native link react-native-parallax-swipe`
+## Demo
+
+![](https://github.com/andrew528i/react-native-parallax-swipe/blob/master/asset/demo.gif?raw=true)
 
 ## Usage
-```javascript
-import ParallaxSwipe from 'react-native-parallax-swipe';
 
-// TODO: What to do with the module?
-ParallaxSwipe;
-```
+Check [example](https://github.com/andrew528i/react-native-parallax-swipe/blob/master/example/index.js)
